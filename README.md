@@ -12,9 +12,3 @@ A very simple C++ console app for tracking monthly income and expenses.
 
 ## Files
 - `main.cpp` - main program file
-
-## Sample compile command
-```bash
-g++ main.cpp -o tracker
-./tracker
-```
